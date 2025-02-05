@@ -16,7 +16,10 @@ import image2 from "./Assest2/img/pp.jpeg"
 import Home from "./CompProj2/Home";
 import Home2 from "./CompProj2/Home2";
 import Footer from "./CompProj2/Footer";
+
+import InputForm from '../src/CompProj3/InputForm';
 function App() {
+
   return (
     <>
     {/* Project 1 */}
@@ -51,7 +54,10 @@ function App() {
       <LoopCard/>
       <Home2 title="Shop Now" description="Get the Best Products for skin care" imageUrl={image1} />
       <Footer/> 
-   
+      {/* project 3 */}
+      <InputForm/>
+
+      
 
     </>
   );
