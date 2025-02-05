@@ -1,0 +1,32 @@
+.containerrr {
+    padding: 50px;
+    margin: 30px;
+    margin-top: 100px;
+    border-radius: 20px;
+    background-color: rgb(224, 223, 237);
+    width: 97%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 400px; 
+    position: relative;
+}
+.containerrr p{
+    font-size: 30px;
+    color: rgb(66, 66, 66);
+}
+.containerrr h1 {
+    font-size: 50px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: rgb(243, 124, 65);
+}
+.containerrr img{
+    position: absolute;
+    height: 590px;
+    bottom:-5%;
+    left: 70%;
+}
+/* .containerrr .row .align-items-center{
+    width: 60%;
+} */

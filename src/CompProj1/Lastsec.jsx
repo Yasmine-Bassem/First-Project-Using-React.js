@@ -2,7 +2,7 @@ import React from 'react';
 import "./lastsec.css";
 import Btn from "./Btn";
 
-import imgg from "../Assest/img/regg.jpg"
+import imgg from "../Assest1/img/regg.jpg"
 
 
 export default function Section(props) {

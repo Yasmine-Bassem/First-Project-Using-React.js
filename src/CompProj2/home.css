@@ -1,0 +1,21 @@
+.containerr {
+    padding: 50px;
+    margin: 30px;
+    border-radius: 20px;
+    background-color: rgb(224, 223, 237);
+    width: 97%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px; 
+}
+.containerr p{
+    font-size: 30px;
+    color: rgb(66, 66, 66);
+}
+.containerr h1 {
+    font-size: 50px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: rgb(243, 124, 65);
+}

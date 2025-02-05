@@ -1,0 +1,8 @@
+.b button{
+    color: white;
+    border-radius: 10px;
+    background-color:  rgb(243, 124, 65);
+    border: 0;
+    font-weight: 600;
+    padding: 10px;
+}
